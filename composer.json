@@ -1,0 +1,15 @@
+{
+    "name": "gabriel/projeto_mvc_php",
+    "autoload": {
+        "psr-4": {
+            "app\\routes\\": "app/routes"
+        }
+    },
+    "authors": [
+        {
+            "name": "gabrielgoncalfreitas",
+            "email": "gabriel.goncal.freitas@gmail.com"
+        }
+    ],
+    "require": {}
+}
